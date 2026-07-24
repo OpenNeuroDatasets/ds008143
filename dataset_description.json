@@ -1,17 +1,18 @@
 {
-  "Name": "Synthesizing images to localize CNN layers in the human brain",
-  "BIDSVersion": "1.9.0",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "Authors": [
-    "Kailong Peng",
-    "Kenneth A. Norman",
-    "Nicholas B. Turk-Browne",
-    "Jeffrey D. Wammes"
-  ],
-  "Funding": [
-    "NIH R01 MH069456",
-    "China Scholarship Council",
-    "CIFAR"
-  ]
+    "Name": "Synthesizing images to localize CNN layers in the human brain",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Kailong Peng",
+        "Kenneth A. Norman",
+        "Nicholas B. Turk-Browne",
+        "Jeffrey D. Wammes"
+    ],
+    "Funding": [
+        "NIH R01 MH069456",
+        "China Scholarship Council",
+        "CIFAR"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008143.v1.0.0"
 }
