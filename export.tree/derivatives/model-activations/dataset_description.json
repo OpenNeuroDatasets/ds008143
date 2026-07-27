@@ -1,0 +1,11 @@
+{
+  "Name": "Inception V1 layer activations for the 16 synthesized images",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "ImageSynthesis (Inception V1)",
+      "CodeURL": "https://github.com/KailongPeng/localize_paper"
+    }
+  ]
+}
